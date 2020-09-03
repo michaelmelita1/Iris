@@ -1,4 +1,4 @@
-Package: com.michaelmelita1.livephotos12
+Package: com.michaelmelita1.iris12
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
@@ -6,6 +6,6 @@ Depends: mobilesubstrate, firmware (<= 12.5)
 Section: Tweaks
 Description: Enable Live Photos on iOS 12 Devices
 Author: Michael Melita
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.livephotos12
-Name: LivePhotos12
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.livephotos12/info.json
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.iris12
+Name: Iris12
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.iris12/info.json
