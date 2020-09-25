@@ -1,4 +1,4 @@
-# Iris12
+# Iris
 Enable Live Photos on iOS 11 to 14 for unsupported devices
 
 ## Download from my repo
