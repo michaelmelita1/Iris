@@ -1,11 +1,11 @@
 Package: com.michaelmelita1.iris12
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
-Depends: mobilesubstrate, firmware (<= 12.5)
+Depends: mobilesubstrate, firmware (>= 11.0)
 Section: Tweaks
-Description: Enable Live Photos on iOS 12 Devices
+Description: Enable Live Photos on Unsupported iOS Devices
 Author: Michael Melita
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.iris12
-Name: Iris12
+Name: Iris
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.iris12/info.json
